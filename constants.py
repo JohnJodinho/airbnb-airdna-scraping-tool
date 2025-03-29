@@ -30,9 +30,9 @@ BLOCK_RESOURCE_NAMES = [
 
 
 DEFAULT_USER_INFO = {
-    "user_name": "mark@westcoasthomestays.com",
-    "user_password": "Westcoast1",
-    "api_key": "AIzaSyDtLkRb_mQKwTY26YeHnp8Pac-YJZvo7Ps"
+    "user_name": "",
+    "user_password": "",
+    "api_key": ""
 }
 
 
